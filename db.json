@@ -1,0 +1,72 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "name": "The Witcher 3: Wild Hunt",
+      "category": "RPG",
+      "price": "39.99",
+      "description": "An open-world RPG where you play as Geralt of Rivia, a monster hunter, exploring a visually stunning fantasy universe full of meaningful choices and impactful consequences.",
+      "imageUrl": "https://i.ibb.co/5crJzxJ/thumbnail-tw.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cyberpunk 2077",
+      "category": "RPG",
+      "price": "59.99",
+      "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour, and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+      "imageUrl": "https://i.ibb.co/Mc0Ymgm/social-thumbnail-en-ddcf4d23.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Minecraft",
+      "category": "Sandbox",
+      "price": 26.95,
+      "description": "A sandbox game that allows players to build and explore infinite worlds made of blocks. The game features both survival and creative modes, where players can craft, gather resources, and create amazing structures.",
+      "imageUrl": "https://i.ibb.co/XJLQmbs/Vanilla-PMP-Collection-Carousel-0-Trails-and-Tales-1280x768.jpg"
+    },
+    {
+      "id": "4",
+      "name": "DOOM Eternal",
+      "category": "FPS",
+      "price": 59.99,
+      "description": "A fast-paced, action-packed first-person shooter where you play as the Doom Slayer, fighting hordes of demons across dimensions to save humanity from annihilation.",
+      "imageUrl": "https://i.ibb.co/7W2kKcB/DOOM-Eternal-XBW-Hero-1920x1080.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Red Dead Redemption 2",
+      "category": "Action-Adventure",
+      "price": 59.99,
+      "description": "An epic tale of life in America at the dawn of the modern age. The game features a vast and atmospheric world that provides the foundation for a new online multiplayer experience.",
+      "imageUrl": "https://i.ibb.co/HVxFHKZ/RDR2476298253-Epic-Games-Wishlist-RDR2-2560x1440-V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Civilization VI",
+      "category": "Strategy",
+      "price": 59.99,
+      "description": "A turn-based strategy game where you attempt to build an empire to stand the test of time. Lead your civilization from the Stone Age to the Information Age and become the world's greatest leader.",
+      "imageUrl": "https://i.ibb.co/ykBcVdH/918c0badde3aeba760e2185f382a2402248a1292322cf540fd8d098eeb292e1e.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "displayName": "Fahad Sikder",
+      "email": "sikderfahad003@gmail.com",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJ1AUSAlZaerj47A-7F1NLFGWcIHNaiwLCzpvPoBFjZyi4bbbx9=s96-c"
+    },
+    {
+      "id": "2",
+      "displayName": "Fahad Sikder",
+      "email": "fsikder484@gmail.com",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKu7Y1v-o3EWiicp-eviBzmP1z7cNwffvol-KK2dZayxbcvootj=s96-c"
+    },
+    {
+      "id": "3",
+      "displayName": "Umme Humayra Nadia",
+      "email": "ummehumayranadia@gmail.com",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocISyO_y-EQpcPrPJyt4GTwpk_QYWK5LosSgAwspQKXALBoUcg=s96-c"
+    }
+  ]
+}
